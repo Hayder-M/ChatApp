@@ -1,0 +1,19 @@
+
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+r
+Bapp/src/main/java/com/example/chatapp/activities/MainActivity.java,0\0\00993c0726eea270b18402ce9645ef5575fce783
+r
+Bapp/src/main/java/com/example/chatapp/activities/ChatActivity.java,a\4\a4fb0a8aca0b484e624a6932b079613e06ecc918
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+s
+Capp/src/main/java/com/example/chatapp/activities/UsersActivity.java,8\5\856fbb1a4db13afcbe91b7f5d3d4ebfce2ef8a0a
+t
+Dapp/src/main/java/com/example/chatapp/activities/SignInActivity.java,a\4\a4a6f7588be00926f0bbd993e2d0550044dac1cb
+t
+Dapp/src/main/java/com/example/chatapp/activities/SignUpActivity.java,2\3\23900071f6592a60566776e27359de123988996e

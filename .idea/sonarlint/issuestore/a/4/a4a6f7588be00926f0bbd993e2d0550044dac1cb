@@ -1,0 +1,24 @@
+
+D
+java:S1604¡"(Make this anonymous inner class a lambda(„¬é¿øÿÿÿÿ
+>
+java:S54116"(Use a primitive boolean expression here.(™ºÆ‘
+>
+java:S5411R"(Use a primitive boolean expression here.(¾½ò
+D
+java:S5411¥"(Use a primitive boolean expression here.(šÈĞùüÿÿÿÿ
+4
+java:S2119’"Save and re-use this "Random".(¼İÅf
+B
+java:S1172–",Remove this unused method parameter "email".(Šƒ‡*
+U
+java:S1874À">Remove this use of "startActivityForResult"; it is deprecated.(ØãÂà
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(ÄîÌ¡
+`
+java:S1874Ü"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+R	java:S125ú"<This block of commented-out lines of code should be removed.(ÄîÌ¡
+G
+java:S1172’"+Remove this unused method parameter "view".(ÁŞ›Èùÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(ı³Ğ˜şÿÿÿÿ
+V
+java:S1144±":Remove this unused private "checkVerificationCode" method.(“Ïîèşÿÿÿÿ
